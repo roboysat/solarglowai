@@ -2,7 +2,7 @@
 
 SolarGlow AI addresses the critical challenge of solar power unpredictability in regions with volatile weather. By providing accurate solar irradiance forecasts, it enables more stable grid operations and promotes the reliable deployment of renewable energy.
 
-## 📖 Table of Contents
+## Table of Contents
 
 1. [The Problem](#the-problem)
 2. [Our Solution](#our-solution)
