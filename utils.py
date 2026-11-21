@@ -7,10 +7,11 @@ import json
 import math
 
 # Constants
-MODEL_PATH = "attached_assets/solar_forecast_model.h5"
-FEATURE_SCALER_PATH = "attached_assets/feature_scaler.save"
-TARGET_SCALER_PATH = "attached_assets/target_scaler.save"
-MODEL_METADATA_PATH = "attached_assets/model_metadata.save"
+MODEL_PATH = "models/solar_forecast_model.h5"
+FEATURE_SCALER_PATH = "models/feature_scaler.save"
+TARGET_SCALER_PATH = "models/target_scaler.save"
+MODEL_METADATA_PATH = "models/model_metadata.save"
+
 PREDICTION_HISTORY_PATH = "prediction_history.json"
 
 # Cache model loading to avoid reloading on each interaction
